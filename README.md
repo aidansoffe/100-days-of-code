@@ -2,6 +2,8 @@
 
 ## Contents
 
-* [Log - click here to see my progress](log.md)
+Click below to see my project progression:
+
+* [https://github.com/aidansoffe/harrypotter](log.md)
 
 
