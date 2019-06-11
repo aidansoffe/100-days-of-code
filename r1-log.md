@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [June 10th, Monday, 2019].
 
 ## Log
 
-### R1D1 
+# R1D1 
 #### Progress:
 - Started a Harry Potter Mobile App.
 
@@ -14,4 +14,4 @@ The log of my #100DaysOfCode challenge. Started on [June 10th, Monday, 2019].
 #### What to focus:
 - Design and UI
 
-### R1D2
+# R1D2
