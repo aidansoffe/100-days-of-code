@@ -4,6 +4,6 @@
 
 Click below to see my project progression:
 
-* [https://github.com/aidansoffe/harrypotter](log.md)
+* [Click](https://github.com/aidansoffe/harrypotter)
 
 
