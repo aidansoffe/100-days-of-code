@@ -4,6 +4,6 @@
 
 Click below to see my project progression:
 
-* [Click](https://github.com/aidansoffe/harrypotter)
+* [Click below to see my project progression:](https://github.com/aidansoffe/harrypotter)
 
 
