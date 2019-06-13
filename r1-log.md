@@ -15,3 +15,24 @@ The log of my #100DaysOfCode challenge. Started on [June 10th, Monday, 2019].
 - Design and UI
 
 # R1D2
+#### Progress:
+- Working on UI, trying to make the front page look like Netflix, but will see))
+
+#### Problems faced:
+In the meantime tried to install ICON but failed, for some reason cant do it.
+
+#### What to focus 
+ICON installation. 
+
+# R1D3
+#### Progress:
+Watched very informative videos on react native.
+
+#### Problems faced:
+Lack of knowledge on UI design.
+
+#### What to focus 
+Need to work on UI, and finish ICON installation!  Frustrating!
+
+
+
